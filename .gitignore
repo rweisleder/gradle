@@ -95,3 +95,7 @@ atlassian-ide-plugin.xml
 
 # oh-my-zsh gradle plugin
 .gradletasknamecache
+
+# kotlin-js
+
+kotlin-js-store/
